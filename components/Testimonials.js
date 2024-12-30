@@ -22,7 +22,7 @@ const Testimonials = () => {
                     <div className="w-full sm:w-80 bg-white shadow-lg rounded-lg p-6 transform transition-all duration-500 hover:scale-105 hover:shadow-2xl animate-fade-in-up">
                         <div className="flex items-center space-x-4">
                             <Image
-                                src="/client1.jpg"
+                                src="/images/client1.jpg"
                                 alt="Client 1"
                                 width={80}
                                 height={80}
@@ -47,7 +47,7 @@ const Testimonials = () => {
                     <div className="w-full sm:w-80 bg-white shadow-lg rounded-lg p-6 transform transition-all duration-500 hover:scale-105 hover:shadow-2xl animate-fade-in-up">
                         <div className="flex items-center space-x-4">
                             <Image
-                                src="/client2.jpg"
+                                src="/images/client2.jpg"
                                 alt="Client 2"
                                 width={80}
                                 height={80}
@@ -72,7 +72,7 @@ const Testimonials = () => {
                     <div className="w-full sm:w-80 bg-white shadow-lg rounded-lg p-6 transform transition-all duration-500 hover:scale-105 hover:shadow-2xl animate-fade-in-up">
                         <div className="flex items-center space-x-4">
                             <Image
-                                src="/client3.jpg"
+                                src="/images/client3.jpg"
                                 alt="Client 3"
                                 width={80}
                                 height={80}
