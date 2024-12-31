@@ -45,7 +45,7 @@ const Navbar = () => {
 
             {/* Mobile Menu */}
             {isMenuOpen && (
-                <div className="md:hidden bg-gray-800 text-center">
+                <div className="md:hidden bg-gradient-to-r from-primary to-accent text-center">
                     <ul className="space-y-4 py-4 font-medium">
                         <li className="hover:text-gray-200 transition duration-300">
                             <a href="#services">Services</a>
