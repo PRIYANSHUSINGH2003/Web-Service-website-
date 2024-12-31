@@ -10,7 +10,7 @@ const Testimonials = () => {
             <div className="container mx-auto px-6 relative z-10">
                 {/* Section Header */}
                 <div className="text-center mb-12 animate-fade-in-down">
-                    <h2 className="text-5xl font-bold text-gray-900">What Our Clients Say</h2>
+                    <h2 className="text-4xl font-bold text-gray-900">What Our Clients Say</h2>
                     <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
                         Hear directly from our satisfied clients and learn how we’ve helped them achieve their business goals.
                     </p>
