@@ -7,7 +7,7 @@ const FocusOnDesign = () => {
             <div className="container mx-auto px-6 lg:px-12 text-gray-800">
                 {/* Heading Section */}
                 <div className="text-center">
-                    <h2 className="text-5xl font-bold leading-snug animate-fade-in-up">
+                    <h2 className="text-4xl font-bold leading-snug animate-fade-in-up">
                         Focus on <span className="text-primary">Design</span>
                     </h2>
                     <p className="mt-4 text-lg text-gray-600 animate-fade-in-up">
