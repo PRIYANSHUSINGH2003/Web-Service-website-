@@ -9,7 +9,7 @@ const About = () => {
             <div className="container mx-auto px-6 relative z-10">
                 {/* Section Header */}
                 <div className="text-center mb-12 animate-fade-in-down">
-                    <h2 className="text-3xl font-bold text-gray-900">About Us</h2>
+                    <h2 className="text-4xl font-bold text-gray-900">About Us</h2>
                     <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
                         Discover who we are and how we bring your vision to life with innovative, user-centered solutions tailored to meet your needs.
                     </p>
